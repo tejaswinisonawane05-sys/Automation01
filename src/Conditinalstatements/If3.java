@@ -1,4 +1,4 @@
-package CoreJava;
+package Conditinalstatements;
 
 public class If3 {
 
